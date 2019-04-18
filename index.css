@@ -49,6 +49,7 @@ table.grid td { background-color: #FFFFFF !important; border: 1px solid #C3DFEA;
 .intr 
 {	
 	font-family: sans-serif;
+	font-style:oblique;
 	width: auto;
 	margin:auto;
 	text-align:center;
