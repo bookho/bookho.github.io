@@ -59,7 +59,7 @@ table.grid td { background-color: #FFFFFF !important; border: 1px solid #C3DFEA;
 }
 #main{width:980px;margin:auto;}
 #hotcontent{padding-top:10px;}
-#hotcontent .l{background:none repeat scroll 0 0 #FEF9EF;border:3px solid #C3DFEA;float:left;height:330px;overflow:hidden;width:695px;padding:0 0 10px;}
+#hotcontent .l{background:none repeat scroll 0 0 #FEF9EF;border:3px solid #C3DFEA;float:left;height:330px;overflow:hidden;width:850px;padding:0 0 10px;}
 #hotcontent .l .item{float:left;width:335px;padding:10px 0 0 10px;}
 #hotcontent .l .item dl dt{border-bottom:1px dotted #A6D3E8;font-size:14px;font-weight:700;height:25px;line-height:25px;overflow:hidden;}
 #hotcontent .l .item dl dt span{color:#B3B3B3;float:right;font-weight:400;}
