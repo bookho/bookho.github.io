@@ -1,5 +1,5 @@
 html,body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,table,td,th,img,div,dl,dt,dd,input,select,form,fieldset{margin:auto;padding:0;}
-body{background-color:#E9FAFF;color:#555;font-family:sans-serif;font-size:15px;margin:0 auto;}
+body{background-color:#E9FAFF;color:#555;font-family:sans-serif;font-size:12px;margin:0 auto;}
 ul li{list-style:none outside none;}
 a{color:#6F78A7;text-decoration:none;}
 a:hover {text-decoration:underline; top:-1px;}
@@ -35,33 +35,11 @@ table.grid { border: 2px solid #C3DFEA; border-collapse: collapse; margin: auto;
 table.grid td { background-color: #FFFFFF !important; border: 1px solid #C3DFEA; padding: 4px;}
 .hottext{color:red;}
 .MessageDiv {background: #FFF9D9; border: 1px solid #FFCC33; line-height: 150%; width:800px; margin: 10px auto auto; padding: 10px;text-align:center;}
-
-.contentall 
-{	background: #66CCFF;
-	font-family: sans-serif;
-	width: auto;
-	margin:auto;
-	text-align:center;
-	clear: both;
-	display: block;
-	overflow: inherit;	
-}
-.intr 
-{	
-	font-family: sans-serif;
-	font-style:oblique;
-	width: auto;
-	margin:auto;
-	text-align:center;
-	clear: both;
-	display: block;
-	overflow: inherit;	
-}
 #main{width:980px;margin:auto;}
 #hotcontent{padding-top:10px;}
-#hotcontent .l{background:none repeat scroll 0 0 #FEF9EF;border:3px solid #C3DFEA;float:left;overflow:hidden;width:980px;padding:0 0 10px;}
-#hotcontent .l .item{float:left;width:350px;padding:10px 0 0 10px;}
-#hotcontent .l .item dl dt{border-bottom:1px dotted #A6D3E8;font-size:16px;font-weight:750;height:25px;line-height:25px;overflow:hidden;}
+#hotcontent .l{background:none repeat scroll 0 0 #FEF9EF;border:3px solid #C3DFEA;float:left;height:330px;overflow:hidden;width:695px;padding:0 0 10px;}
+#hotcontent .l .item{float:left;width:335px;padding:10px 0 0 10px;}
+#hotcontent .l .item dl dt{border-bottom:1px dotted #A6D3E8;font-size:14px;font-weight:700;height:25px;line-height:25px;overflow:hidden;}
 #hotcontent .l .item dl dt span{color:#B3B3B3;float:right;font-weight:400;}
 #hotcontent .l .item dl dd{height:120px;line-height:20px;overflow:hidden;text-indent:2em;padding:7px 0 0;}
 #hotcontent .l .item dl{float:right;width:190px;padding:0 5px 0 0;}
