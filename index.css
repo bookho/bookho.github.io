@@ -64,7 +64,7 @@ table.grid td { background-color: #FFFFFF !important; border: 1px solid #C3DFEA;
 #hotcontent .l .item dl dt{border-bottom:1px dotted #A6D3E8;font-size:16px;font-weight:750;height:25px;line-height:25px;overflow:hidden;}
 #hotcontent .l .item dl dt span{color:#B3B3B3;float:right;font-weight:400;}
 #hotcontent .l .item dl dd{height:120px;line-height:20px;overflow:hidden;text-indent:2em;padding:7px 0 0;}
-#hotcontent .l .item dl{float:right;width:190px;padding:0 5px 0 0;}
+#hotcontent .l .item dl{float:right;width:290px;padding:0 5px 0 0;}
 #hotcontent .l .item .image{float:left;width:120px;}
 #hotcontent .l .item .image img{background-color:#FFF;border:1px solid #DDD;padding:1px;}
 #hotcontent .ll{ border:3px solid #C8D4E1; margin: 10px auto; padding:5px;  float:left; width:964px; height:320px; overflow:hidden;}
